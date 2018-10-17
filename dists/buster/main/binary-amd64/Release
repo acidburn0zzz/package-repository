@@ -1,0 +1,5 @@
+Component: main
+Origin: Norcux OS
+Label: Norcux OS
+Architecture: amd64
+Description: Package repository for Norcux OS

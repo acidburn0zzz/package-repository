@@ -1,0 +1,6 @@
+Origin: Norcux OS
+Label: Norcux OS
+Codename: buster
+Architectures: amd64
+Components: main
+Description: Package repository for Norcux OS
