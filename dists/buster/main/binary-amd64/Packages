@@ -28,14 +28,14 @@ Homepage: https://github.com/NorcuxOS/makedeb
 
 Package: norcuxos-wallpapers
 Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
-Version: 0.10-1
+Version: 0.11-1
 Priority: optional
 Section: kde
-Filename: pool/main/n/norcuxos-wallpapers/norcuxos-wallpapers_0.10-1_all.deb
-Size: 7799540
-SHA256: c440c4638c64d5bc3c598978fde97a09068f575555efbb51aa0532b346298e03
-SHA1: 6b5316fee65ac1c87c8da20f0897af9c9e5ac425
-MD5sum: 734c97787f2050748fe4ea148c6afe86
+Filename: pool/main/n/norcuxos-wallpapers/norcuxos-wallpapers_0.11-1_all.deb
+Size: 8681784
+SHA256: f76312c51093b8b21c322183c398b9d9d683eb8b042ef4f31a321e3f3d030993
+SHA1: ab92eb8496347551ebd1505dfba90465caed5b6d
+MD5sum: 8c9fc8baab68cc99ecbebe94ff3157a9
 Description: Wallpapers for Norcux OS
 Architecture: all
 Homepage: https://github.com/NorcuxOS/wallpapers
