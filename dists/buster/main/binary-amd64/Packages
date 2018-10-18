@@ -26,3 +26,17 @@ Description: A tool to easily create debian packages, similar to makepkg from Ar
 Architecture: all
 Homepage: https://github.com/NorcuxOS/makedeb
 
+Package: norcuxos-wallpapers
+Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
+Version: 0.10-1
+Priority: optional
+Section: kde
+Filename: pool/main/n/norcuxos-wallpapers/norcuxos-wallpapers_0.10-1_all.deb
+Size: 7799540
+SHA256: c440c4638c64d5bc3c598978fde97a09068f575555efbb51aa0532b346298e03
+SHA1: 6b5316fee65ac1c87c8da20f0897af9c9e5ac425
+MD5sum: 734c97787f2050748fe4ea148c6afe86
+Description: Wallpapers for Norcux OS
+Architecture: all
+Homepage: https://github.com/NorcuxOS/wallpapers
+
