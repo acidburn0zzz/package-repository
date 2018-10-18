@@ -12,3 +12,17 @@ Description: Standalone web browser from mozilla.org
 Architecture: amd64
 Homepage: https://www.mozilla.org/firefox/
 
+Package: makedeb
+Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
+Version: 0.1-1
+Priority: optional
+Section: misc
+Filename: pool/main/m/makedeb/makedeb_0.1-1_all.deb
+Size: 2148
+SHA256: 9614e1f7d8853912ab94be48fef358a985e6d42c9f8fc066c49cf3fb86fc5e18
+SHA1: 1112fea4104a1ca2e9c7ef8c89d3a0fdc30645f4
+MD5sum: 189e6e0a0f32570817301c27d683391f
+Description: A tool to easily create debian packages, similar to makepkg from Arch Linux.
+Architecture: all
+Homepage: https://github.com/NorcuxOS/makedeb
+
