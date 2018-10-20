@@ -1,19 +1,19 @@
 Origin: Norcux OS
 Label: Norcux OS
 Codename: buster
-Date: Sat, 20 Oct 2018 18:01:40 UTC
+Date: Sat, 20 Oct 2018 18:24:04 UTC
 Architectures: amd64
 Components: main
 Description: Package repository for Norcux OS
 MD5Sum:
- c922bc5f7415f4ae084ab9d46157ca68 1470 main/binary-amd64/Packages
- 849616f185a1e82d5cccbc580c2ca6ea 724 main/binary-amd64/Packages.gz
+ fd59f96e19bc7553c1b845859531bb17 1523 main/binary-amd64/Packages
+ b675314c8a19f808e904a45208d7e0f1 739 main/binary-amd64/Packages.gz
  40e57b25dfe64484f13e7d246163c822 117 main/binary-amd64/Release
 SHA1:
- 472afac05291badde3edf0d63e1557877efc3a70 1470 main/binary-amd64/Packages
- 23545383a2de5245a422f8d01de65ba406b86a75 724 main/binary-amd64/Packages.gz
+ 8c4819028f84ea35e4fd46e2597cac98cef88cef 1523 main/binary-amd64/Packages
+ ad36f68ebda7a66671f023043d2e61c5036d4367 739 main/binary-amd64/Packages.gz
  2b305f5d7914ef7fe5775c7e55b96dda52b0f676 117 main/binary-amd64/Release
 SHA256:
- b981fe3e3730dc1b42a19962490013a680c9fe790974d6f518259eadc90632e7 1470 main/binary-amd64/Packages
- 9849f3b8b90703b981de69a5d5c99c0c6d294234dd3e1a080a526d9980650679 724 main/binary-amd64/Packages.gz
+ 8b2a4bca0363948cd6dfbadebfdfe4a5cdf2747cc1f77056dc7d5b6322862b9a 1523 main/binary-amd64/Packages
+ 22e0e271e37de4b39425e3e1b0599f6472830de32166dfcd92ecdbf721a9fcb3 739 main/binary-amd64/Packages.gz
  4a890df49ca911d1ca74dd25dc25201ccd83797b8d5a668d553eb2c3b7d2cedd 117 main/binary-amd64/Release
