@@ -14,15 +14,16 @@ Homepage: https://www.mozilla.org/firefox/
 
 Package: makedeb
 Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
-Version: 0.2.1-1
+Version: 0.2.2-1
 Priority: optional
 Section: misc
-Filename: pool/main/m/makedeb/makedeb_0.2.1-1_all.deb
-Size: 2864
-SHA256: f3a1f60e946f013e4629bec74be5586ceec1b7af20fbcfdc68723c930f84d1ad
-SHA1: 36b961567efeaabb5da784042a4ca813d3691367
-MD5sum: 13ea4cf147152ae1b29c1f80de700ead
-Description: A tool to easily create debian packages, similar to makepkg from Arch Linux.
+Filename: pool/main/m/makedeb/makedeb_0.2.2-1_all.deb
+Size: 3092
+SHA256: 2c45e4ada557c50f383b8ead7a2c15a2c504a082cb96d510e4a164388864762f
+SHA1: 51a5b4680bafdbb794a9d793ccfd7199b65e8c96
+MD5sum: 12b2f9492645a48f34397185e0bbba96
+Description: This is a tool similar to makepkg from Arch Linux.
+ It allows you to easily create debian packages.
 Architecture: all
 Homepage: https://github.com/NorcuxOS/makedeb
 
