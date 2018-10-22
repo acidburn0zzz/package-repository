@@ -1,14 +1,15 @@
 Package: firefox
 Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
-Version: 62.0.3-2
+Version: 62.0.3-3
 Priority: optional
-Section: 
-Filename: pool/main/f/firefox/firefox_62.0.3-2_amd64.deb
-Size: 44205676
-SHA256: 169682faefd6bcd94eef815932680d52fe99926712987bf373a4b6989a0e3037
-SHA1: 70a49a0387e89840471a61fb095cf2bc219f26d3
-MD5sum: a45615c7baaf36b301bb12edb2ac04a8
-Description: Standalone web browser from mozilla.org
+Section: web
+Filename: pool/main/f/firefox/firefox_62.0.3-3_amd64.deb
+Size: 44206048
+SHA256: db17c2579b33ec97f494a296d1e4dfd683145e7ef4bb670a2edffee199823891
+SHA1: dbfaa4a5f4958d1989d076af7f506b103a5649a7
+MD5sum: 49e773b7d3aad03c8ebecdd5e79dbf3c
+Description: Mozilla Firefox web browser
+ Firefox is a powerful, extensible web browser with support for modern web application technologies.
 Architecture: amd64
 Homepage: https://www.mozilla.org/firefox/
 
