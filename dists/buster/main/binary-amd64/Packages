@@ -28,6 +28,21 @@ Description: Tool to easily create debian packages
 Architecture: all
 Homepage: https://github.com/NorcuxOS/makedeb
 
+Package: norcuxos-artwork
+Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
+Version: 0.10-1
+Priority: optional
+Section: kde
+Filename: pool/main/n/norcuxos-artwork/norcuxos-artwork_0.10-1_all.deb
+Size: 274144
+SHA256: 9f113b4261dadc2a015cfb78600ece8f63431039d656d970bb7d0486ddc7eb39
+SHA1: 106af78ae90459c97d04524608f9a4f94764d35f
+MD5sum: 0a3aa7ae021807769eee0db12a4538cc
+Description: Norcux OS artwork
+ This package contains the Norcux OS artwork.
+Architecture: all
+Homepage: https://github.com/NorcuxOS/artwork
+
 Package: norcuxos-wallpapers
 Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
 Version: 0.11.1-1
