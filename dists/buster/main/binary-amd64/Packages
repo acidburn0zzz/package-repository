@@ -60,14 +60,14 @@ Homepage: https://github.com/NorcuxOS/grub-theme
 
 Package: norcuxos-sddm-theme
 Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
-Version: 0.10-1
+Version: 0.10.1-1
 Priority: optional
 Section: x11
-Filename: pool/main/n/norcuxos-sddm-theme/norcuxos-sddm-theme_0.10-1_all.deb
-Size: 486992
-SHA256: 668de75f1d7a129d6fe1dcee4084c2f860e0fe612d55dac657a14a9b1deb7a45
-SHA1: 186cb6b767c8f5e540b0826606ba860346663e44
-MD5sum: 706c2b3c5a3b10132079da57730b1202
+Filename: pool/main/n/norcuxos-sddm-theme/norcuxos-sddm-theme_0.10.1-1_all.deb
+Size: 486980
+SHA256: 847424f38024f2c3b288a84d2eecffaad853b358f4e17ac4b557a671d7d9f1d9
+SHA1: ebe04801a12c024d8b711fcc2ae37a2e580a9ab3
+MD5sum: 864e49982e55dd8b947c9a8d8c313bab
 Description: Norcux OS SDDM theme
  This package contains the Norcux OS SDDM theme.
 Architecture: all
