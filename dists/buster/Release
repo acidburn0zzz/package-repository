@@ -1,5 +1,6 @@
 Origin: Norcux OS
 Label: Norcux OS
+Suite: testing
 Codename: buster
 Date: Tue, 23 Oct 2018 08:57:34 UTC
 Architectures: amd64
