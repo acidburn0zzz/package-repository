@@ -45,16 +45,16 @@ Homepage: https://github.com/NorcuxOS/artwork
 
 Package: norcuxos-grub-theme
 Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
-Version: 0.10-1
+Version: 0.10.1-1
 Priority: optional
 Section: admin
-Filename: pool/main/n/norcuxos-grub-theme/norcuxos-grub-theme_0.10-1_all.deb
-Size: 1046924
-SHA256: d7e40ef505bca8e680a1589cd5bd91fdac002c9cdc3c21ec314638793a8dc9c3
-SHA1: 59c1529729c41db5d95ad8b98c5a96b01c986483
-MD5sum: 0d095c875e82957a9ce492bb738cc922
+Filename: pool/main/n/norcuxos-grub-theme/norcuxos-grub-theme_0.10.1-1_all.deb
+Size: 1047540
+SHA256: c7726876d99403371a43a42de9a08d8290e5f23a82c517d4a2eb96b5fb6ea199
+SHA1: 5d156858d22a9a11ba6c981bfe7027fde69d7618
+MD5sum: 92506df6831c489ffa601a18205b89f4
 Description: Norcux OS GRUB theme
- This package the Norcux OS GRUB theme.
+ This package contains the Norcux OS GRUB theme.
 Architecture: all
 Homepage: https://github.com/NorcuxOS/grub-theme
 
