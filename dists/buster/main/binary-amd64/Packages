@@ -73,6 +73,21 @@ Description: Norcux OS GTK theme
 Architecture: all
 Homepage: https://github.com/NorcuxOS/gtk-theme
 
+Package: norcuxos-icon-theme
+Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
+Version: 0.10-1
+Priority: optional
+Section: x11
+Filename: pool/main/n/norcuxos-icon-theme/norcuxos-icon-theme_0.10-1_all.deb
+Size: 8378684
+SHA256: 2fa3623eb55efbb0a8aa7a1dd9b7370adf5f4ef659b65b028b5b96ddfa50f70f
+SHA1: c5d98f9060d19927fcfa2d0a39d7cd775ab861f9
+MD5sum: 388f8079bc600500757a7c6af0c15a8e
+Description: Norcux OS icon theme
+ This package contains the Norcux OS icon theme (based on Papirus).
+Architecture: all
+Homepage: https://github.com/NorcuxOS/gtk-theme
+
 Package: norcuxos-sddm-theme
 Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
 Version: 0.10.1-1
