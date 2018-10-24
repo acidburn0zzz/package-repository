@@ -103,3 +103,18 @@ Description: Wallpapers for Norcux OS
 Architecture: all
 Homepage: https://github.com/NorcuxOS/wallpapers
 
+Package: norcuxos-welcome-screen
+Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
+Version: 0.10-1
+Priority: optional
+Section: utils
+Filename: pool/main/n/norcuxos-welcome-screen/norcuxos-welcome-screen_0.10-1_amd64.deb
+Size: 20192
+SHA256: fcebf5762b75630e0c5abc1cfc52c8f0cee801b96c7bd0e474a1b8f6ce7a2562
+SHA1: 3eae570f218b4f4507206f6defffacb08f915299
+MD5sum: 273ef2ab6c2628525158ad5b7b89a46b
+Description: Norcux OS welcome screen
+ This package contains the Norcux OS welcome screen.
+Architecture: amd64
+Homepage: https://github.com/NorcuxOS/welcome-screen
+
