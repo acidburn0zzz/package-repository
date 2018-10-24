@@ -58,6 +58,21 @@ Description: Norcux OS GRUB theme
 Architecture: all
 Homepage: https://github.com/NorcuxOS/grub-theme
 
+Package: norcuxos-gtk-theme
+Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
+Version: 0.10.1-1
+Priority: optional
+Section: x11
+Filename: pool/main/n/norcuxos-gtk-theme/norcuxos-gtk-theme_0.10.1-1_all.deb
+Size: 710388
+SHA256: 2d546b7798a8bcae0c0a12e16e6b70e33a24a2cff90a7a4b4c59df8862886b0c
+SHA1: e71ae1cd33e3cfe35c4950f60ce82808f6649407
+MD5sum: 3278d23bde38303d20809f551a9faf66
+Description: Norcux OS GTK theme
+ This package contains the Norcux OS GTK theme (based on Adapta).
+Architecture: all
+Homepage: https://github.com/NorcuxOS/gtk-theme
+
 Package: norcuxos-sddm-theme
 Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
 Version: 0.10.1-1
