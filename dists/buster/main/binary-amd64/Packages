@@ -43,6 +43,21 @@ Description: Norcux OS artwork
 Architecture: all
 Homepage: https://github.com/NorcuxOS/artwork
 
+Package: norcuxos-calamares-settings
+Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
+Version: 0.10-1
+Priority: optional
+Section: utils
+Filename: pool/main/n/norcuxos-calamares-settings/norcuxos-calamares-settings_0.10-1_all.deb
+Size: 11564
+SHA256: 5c5cc3e42b2ea6710af1ed4dafeeb069833be9284f94c64f4b53e1c709bffe02
+SHA1: ee74be25757c8590b3eb2a514238380358578bd4
+MD5sum: 9b91a0ff758df7a644c95e7dafcc3917
+Description: Norcux OS Calamares settings
+ This package contains the Norcux OS Calamares settings and branding.
+Architecture: all
+Homepage: https://github.com/NorcuxOS/calamares-settings
+
 Package: norcuxos-grub-theme
 Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
 Version: 0.10.1-1
