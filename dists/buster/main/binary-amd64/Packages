@@ -28,6 +28,21 @@ Description: Tool to easily create debian packages
 Architecture: all
 Homepage: https://github.com/NorcuxOS/makedeb
 
+Package: norcuxos-app-center
+Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
+Version: 0.10-1
+Priority: optional
+Section: utils
+Filename: pool/main/n/norcuxos-app-center/norcuxos-app-center_0.10-1_amd64.deb
+Size: 51368
+SHA256: f91424526324d2dda08c11330b04454f1462947b1426a049836f43ea7d3d497a
+SHA1: 3d77572436bc79b77839373519b97f0e759f7e68
+MD5sum: daa8a26abf900510f8d51378f4581cf5
+Description: Norcux OS app center
+ This package contains the Norcux OS app center.
+Architecture: amd64
+Homepage: https://github.com/NorcuxOS/app-center
+
 Package: norcuxos-artwork
 Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
 Version: 0.10-1
