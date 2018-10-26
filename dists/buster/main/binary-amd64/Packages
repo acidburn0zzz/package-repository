@@ -13,6 +13,21 @@ Description: Mozilla Firefox web browser
 Architecture: amd64
 Homepage: https://www.mozilla.org/firefox/
 
+Package: isoimagewriter
+Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
+Version: 0.10.1-1
+Priority: optional
+Section: utils
+Filename: pool/main/i/isoimagewriter/isoimagewriter_0.10.1-1_amd64.deb
+Size: 104556
+SHA256: 257465e7a3b05c22c63428e11c17016ab76248b44b8c93d946e4aaab9295f927
+SHA1: d14382d577e1db30e6984b90b2a2430d33011230
+MD5sum: 876b9344edffa1b87eba8cc5a62f6a8e
+Description: Write hybrid ISO files onto a USB disk
+ ISO Image Writer is a tool to write a .iso file to a USB disk.
+Architecture: amd64
+Homepage: https://github.com/NorcuxOS/isoimagewriter
+
 Package: makedeb
 Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
 Version: 0.2.3-1
