@@ -75,14 +75,14 @@ Homepage: https://github.com/NorcuxOS/artwork
 
 Package: norcuxos-calamares-settings
 Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
-Version: 0.10.2-1
+Version: 0.10.3-1
 Priority: optional
 Section: utils
-Filename: pool/main/n/norcuxos-calamares-settings/norcuxos-calamares-settings_0.10.2-1_all.deb
-Size: 10996
-SHA256: 48eecf5eed682a1004c7588e150f6b68d8a3ead2d0f4a4be0e0752385ab4eee5
-SHA1: 798415cbbf5798231d5d133a0d6878343c25a4a2
-MD5sum: 44a3037f0739eadb00e855e023ee1d18
+Filename: pool/main/n/norcuxos-calamares-settings/norcuxos-calamares-settings_0.10.3-1_all.deb
+Size: 11056
+SHA256: d8175cce98f4c39e3bd0bb4b5dea9508ef3a3aece8ea63be4efa2b6887adac2b
+SHA1: d7a47a43439f73cba7df55fd86df532e73d3a040
+MD5sum: bb03a7357e1b33c21bf2a3c8488ef70e
 Description: Norcux OS Calamares settings
  This package contains the Norcux OS Calamares settings and branding.
 Architecture: all
