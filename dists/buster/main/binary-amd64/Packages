@@ -15,14 +15,14 @@ Homepage: https://github.com/NorcuxOS/isoimagewriter
 
 Package: makedeb
 Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
-Version: 0.2.3-1
+Version: 0.3-1
 Priority: optional
 Section: misc
-Filename: pool/main/m/makedeb/makedeb_0.2.3-1_all.deb
-Size: 3108
-SHA256: 63661e2c6f34b6353d16c2ac161362180846b42eb73ca522db19290899b296ca
-SHA1: 4b4d463fec5b0864a6656e8973907b0884f284eb
-MD5sum: 0ab19e5fc06e98cf3c13b9276c271049
+Filename: pool/main/m/makedeb/makedeb_0.3-1_all.deb
+Size: 3212
+SHA256: 8d68f39d7b1277cc3eea912df6c6b652c39afde0f64e74e0ebd7395d309a590f
+SHA1: aac26859dab5b272463d11b7435d9a151b15a723
+MD5sum: 9615252a6daed977f6c76899d9d09aef
 Description: Tool to easily create debian packages
  This program is similar to makepkg from Arch Linux.
 Architecture: all
