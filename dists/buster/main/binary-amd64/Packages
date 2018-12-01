@@ -150,14 +150,14 @@ Homepage: https://github.com/NorcuxOS/sddm-theme
 
 Package: norcuxos-wallpapers
 Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
-Version: 0.11.1-1
+Version: 0.12-1
 Priority: optional
 Section: kde
-Filename: pool/main/n/norcuxos-wallpapers/norcuxos-wallpapers_0.11.1-1_all.deb
-Size: 8682384
-SHA256: 144b0b4f6bd0f89701203c79b3f71aeeb3edcb7b0acf1c1bc86298d2b8df4c1a
-SHA1: 41c258ee219a7b710f8855cf020d522b43d2c1c6
-MD5sum: 2c8fe8b5bb9737861bbf113acdfa44a0
+Filename: pool/main/n/norcuxos-wallpapers/norcuxos-wallpapers_0.12-1_all.deb
+Size: 8736232
+SHA256: afd36cefb25636fff2198124c382f54c70349774161bc2d29127083f0571c468
+SHA1: 50febc6ba0f64b2c90a8bb760aa86045c0065bf7
+MD5sum: d979e2fe04218927712fb974316cd221
 Description: Wallpapers for Norcux OS
  This package contains wallpapers for Norcux OS.
 Architecture: all
